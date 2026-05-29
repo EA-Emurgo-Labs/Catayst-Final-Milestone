@@ -19,6 +19,7 @@ This repository holds the final deliverables submitted as Proof of Achievement f
 | **Project Start Date** | 2 June 2025 |
 | **Project Completion Date** | 1 May 2026 |
 | **Project URL** | https://milestones.projectcatalyst.io/projects/1300096/ |
+| **Close-Out Video URL** | https://www.youtube.com/watch?v=xFlxRla-O-o |
 
 ---
 
